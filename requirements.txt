@@ -1,0 +1,4 @@
+requests
+pandas
+mistralai
+python-decouple
